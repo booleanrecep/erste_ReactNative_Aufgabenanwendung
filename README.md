@@ -1,0 +1,1 @@
+Thanks to  [Nader Dabit](https://github.com/dabit3/react-native-in-action).
